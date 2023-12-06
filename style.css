@@ -6,6 +6,19 @@ text-align: center;
 .negrito {
   font-size: 20px;
 }
+
 .banner{
 width: 100% ;
+}
+
+.beneficiosimg {
+  width:100%;
+}
+
+.beneficios {
+  background-color: #ffffff;
+  padding: 20px;
+}
+.imagembeneficios{
+  width: 50%;
 }
